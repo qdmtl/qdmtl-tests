@@ -1,0 +1,53 @@
+# Afficher les numéros d'inventaire associés aux pièces d'archive.
+# Superflu : skos:prefLabel
+
+PREFIX rico: <https://www.ica.org/standards/RiC/ontology#>
+PREFIX vocab: <http://vocab.qdmtl.ca/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+
+SELECT (?r AS ?Pièce) (?tv AS ?Numéro_dinventaire) ?l
+  WHERE {
+    ?r a rico:Record ;
+      rico:hasOrHadIdentifier ?id .
+    ?id rico:hasIdentifierType vocab:InventoryNumber ;
+      rico:textualValue ?tv .
+    vocab:InventoryNumber skos:prefLabel ?l .
+    FILTER(lang(?l)='fr')
+  }
+
+
+# Afficher les pièces d'archives associées à un numéro d'inventaire
+
+PREFIX rico: <https://www.ica.org/standards/RiC/ontology#>
+PREFIX vocab: <http://vocab.qdmtl.ca/>
+SELECT (?r AS ?Pièce) (?no AS ?Numéro_dinventaire) (?p AS ?Plan)
+  WHERE {
+    ?r a rico:Record ;
+      rico:hasOrHadIdentifier ?id ;
+      rico:isRecordResourceAssociatedWithRecordResource ?p .
+    ?id rico:hasIdentifierType vocab:InventoryNumber ;
+      rico:textualValue "11" .
+    BIND ("11" AS ?no) .
+  }
+
+# Afficher les pièces d'archives associées à un plan
+
+PREFIX rico: <https://www.ica.org/standards/RiC/ontology#>
+PREFIX vocab: <http://vocab.qdmtl.ca/>
+SELECT (?p AS ?Plan) (?r AS ?Pièce)
+  WHERE {
+    ?r a rico:Record ;
+      rico:isRecordResourceAssociatedWithRecordResource <http://data.qdmtl.ca/record/VM001-4-2_0806-1-1-P> .
+    BIND ("data:record/VM001-4-2_0806-1-1-P" AS ?p) .
+  }
+
+# Variante
+
+PREFIX rico: <https://www.ica.org/standards/RiC/ontology#>
+PREFIX vocab: <http://vocab.qdmtl.ca/>
+SELECT ?r ?p
+  WHERE {
+    ?r a rico:Record ;
+      rico:hasContentOfType vocab:CartographicImage .
+    ?p rico:isRecordResourceAssociatedWithRecordResource ?r .
+  }
