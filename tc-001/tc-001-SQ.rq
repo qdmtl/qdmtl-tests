@@ -5,49 +5,48 @@ PREFIX rico: <https://www.ica.org/standards/RiC/ontology#>
 PREFIX vocab: <http://vocab.qdmtl.ca/>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
 
-SELECT (?r AS ?Pièce) (?tv AS ?Numéro_dinventaire) ?l
+SELECT ?record ?no_inv ?label
   WHERE {
-    ?r a rico:Record ;
+    ?record a rico:Record ;
       rico:hasOrHadIdentifier ?id .
-    ?id rico:hasIdentifierType vocab:InventoryNumber ;
-      rico:textualValue ?tv .
-    vocab:InventoryNumber skos:prefLabel ?l .
-    FILTER(lang(?l)='fr')
+    ?id rico:hasIdentifierType vocab:inventoryNumber ;
+      rico:textualValue ?no_inv .
+    vocab:inventoryNumber skos:prefLabel ?label .
+    FILTER(lang(?label)='fr')
   }
-
 
 # Afficher les pièces d'archives associées à un numéro d'inventaire
 
 PREFIX rico: <https://www.ica.org/standards/RiC/ontology#>
 PREFIX vocab: <http://vocab.qdmtl.ca/>
-SELECT (?r AS ?Pièce) (?no AS ?Numéro_dinventaire) (?p AS ?Plan)
+SELECT ?record ?no_inv ?plan
   WHERE {
-    ?r a rico:Record ;
+    ?record a rico:Record ;
       rico:hasOrHadIdentifier ?id ;
-      rico:isRecordResourceAssociatedWithRecordResource ?p .
-    ?id rico:hasIdentifierType vocab:InventoryNumber ;
+      rico:isRecordResourceAssociatedWithRecordResource ?plan .
+    ?id rico:hasIdentifierType vocab:inventoryNumber ;
       rico:textualValue "11" .
-    BIND ("11" AS ?no) .
+    BIND ("11" AS ?no_inv) .
   }
 
 # Afficher les pièces d'archives associées à un plan
 
 PREFIX rico: <https://www.ica.org/standards/RiC/ontology#>
 PREFIX vocab: <http://vocab.qdmtl.ca/>
-SELECT (?p AS ?Plan) (?r AS ?Pièce)
+SELECT ?plan ?record
   WHERE {
-    ?r a rico:Record ;
+    ?record a rico:Record ;
       rico:isRecordResourceAssociatedWithRecordResource <http://data.qdmtl.ca/record/VM001-4-2_0806-1-1-P> .
-    BIND ("data:record/VM001-4-2_0806-1-1-P" AS ?p) .
+    BIND ("data:record/VM001-4-2_0806-1-1-P" AS ?plan) .
   }
 
 # Variante
 
 PREFIX rico: <https://www.ica.org/standards/RiC/ontology#>
 PREFIX vocab: <http://vocab.qdmtl.ca/>
-SELECT ?r ?p
+SELECT ?record ?plan
   WHERE {
-    ?r a rico:Record ;
-      rico:hasContentOfType vocab:CartographicImage .
-    ?p rico:isRecordResourceAssociatedWithRecordResource ?r .
+    ?record a rico:Record ;
+      rico:hasContentOfType vocab:cartographicImage .
+    ?plan rico:isRecordResourceAssociatedWithRecordResource ?record .
   }

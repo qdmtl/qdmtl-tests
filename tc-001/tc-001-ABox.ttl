@@ -2,12 +2,12 @@
 		rico:Record ;
 	rdfs:label "Plan d’expropriation, secteur de Radio-Canada"@fr ;
 	rico:title "Plan d’expropriation, secteur de Radio-Canada"@fr ;
-	rico:hasContentOfType vocab:CartographicImage ;
+	rico:hasContentOfType vocab:cartographicImage ;
 	rdfs:comment "Carte index fournie en pièce jointe du dossier D0196 : les numéros inscrits sur ce plan d’expropriation correspondent aux numéros d’inventaires apparaissant sur les photographies."@fr ;
 	rdfs:seeAlso <https://archivesdemontreal.com/2013/10/15/les-quartiers-disparus-de-montreal-le-secteur-de-la-societe-radio-canada-faubourg-a-mlasse-9-juillet-1963> ;
 	rico:hasOrHadIdentifier [
 		rdf:type rico:Identifier ;
-		rico:hasIdentifierType vocab:ArchivalReferenceCode ;
+		rico:hasIdentifierType vocab:archivalReferenceCode ;
 		rico:textualValue "VM001-4-2_0806-1-1-P" .
 	] .
 
@@ -15,15 +15,15 @@
 		rico:Record ;
 	rdfs:label "VM094-C196-0001" ;
 	rico:title "VM094-C196-0001" ;
-	rico:hasContentOfType vocab:PhotographicImage ;
+	rico:hasContentOfType vocab:photographicImage ;
 	rico:isRecordResourceAssociatedWithRecordResource <http://data.qdmtl.ca/record/VM001-4-2_0806-1-1-P> ;
 	rico:hasOrHadIdentifier [
 		rdf:type rico:Identifier ;
-		rico:hasIdentifierType vocab:ArchivalReferenceCode ;
+		rico:hasIdentifierType vocab:archivalReferenceCode ;
 		rico:textualValue "VM094-C196-0001" .
 	] , [
 		rdf:type rico:Identifier ;
-		rico:hasIdentifierType vocab:InventoryNumber ;
+		rico:hasIdentifierType vocab:inventoryNumber ;
 		rico:textualValue "11" .
 	] .
 
@@ -31,15 +31,15 @@
 		rico:Record ;
 	rdfs:label "VM094-C196-0002" ;
 	rico:title "VM094-C196-0002" ;
-	rico:hasContentOfType vocab:PhotographicImage ;
+	rico:hasContentOfType vocab:photographicImage ;
 	rico:isRecordResourceAssociatedWithRecordResource <http://data.qdmtl.ca/record/VM001-4-2_0806-1-1-P> ;
 	rico:hasOrHadIdentifier [
 		rdf:type rico:Identifier ;
-		rico:hasIdentifierType vocab:ArchivalReferenceCode ;
+		rico:hasIdentifierType vocab:archivalReferenceCode ;
 		rico:textualValue "VM094-C196-0002" .
 	] , [
 		rdf:type rico:Identifier ;
-		rico:hasIdentifierType vocab:InventoryNumber ;
+		rico:hasIdentifierType vocab:inventoryNumber ;
 		rico:textualValue "11" .
 	] .
 
@@ -47,15 +47,15 @@
 		rico:Record ;
 	rdfs:label "VM094-C196-0003" ;
 	rico:title "VM094-C196-0003" ;
-	rico:hasContentOfType vocab:PhotographicImage ;
+	rico:hasContentOfType vocab:photographicImage ;
 	rico:isRecordResourceAssociatedWithRecordResource <http://data.qdmtl.ca/record/VM001-4-2_0806-1-1-P> ;
 	rico:hasOrHadIdentifier [
 		rdf:type rico:Identifier ;
-		rico:hasIdentifierType vocab:ArchivalReferenceCode ;
+		rico:hasIdentifierType vocab:archivalReferenceCode ;
 		rico:textualValue "VM094-C196-0003" .
 	] , [
 		rdf:type rico:Identifier ;
-		rico:hasIdentifierType vocab:InventoryNumber ;
+		rico:hasIdentifierType vocab:inventoryNumber ;
 		rico:textualValue "11" .
 	] .
 
@@ -63,15 +63,15 @@
 		rico:Record ;
 	rdfs:label "VM094-C196-0004" ;
 	rico:title "VM094-C196-0004" ;
-	rico:hasContentOfType vocab:PhotographicImage ;
+	rico:hasContentOfType vocab:photographicImage ;
 	rico:isRecordResourceAssociatedWithRecordResource <http://data.qdmtl.ca/record/VM001-4-2_0806-1-1-P> ;
 	rico:hasOrHadIdentifier [
 		rdf:type rico:Identifier ;
-		rico:hasIdentifierType vocab:ArchivalReferenceCode ;
+		rico:hasIdentifierType vocab:archivalReferenceCode ;
 		rico:textualValue "VM094-C196-0004" .
 	] , [
 		rdf:type rico:Identifier ;
-		rico:hasIdentifierType vocab:InventoryNumber ;
+		rico:hasIdentifierType vocab:inventoryNumber ;
 		rico:textualValue "11" .
 	] .
 
@@ -79,15 +79,15 @@
 		rico:Record ;
 	rdfs:label "VM094-C196-0005" ;
 	rico:title "VM094-C196-0005" ;
-	rico:hasContentOfType vocab:PhotographicImage ;
+	rico:hasContentOfType vocab:photographicImage ;
 	rico:isRecordResourceAssociatedWithRecordResource <http://data.qdmtl.ca/record/VM001-4-2_0806-1-1-P> ;
 	rico:hasOrHadIdentifier [
 		rdf:type rico:Identifier ;
-		rico:hasIdentifierType vocab:ArchivalReferenceCode ;
+		rico:hasIdentifierType vocab:archivalReferenceCode ;
 		rico:textualValue "VM094-C196-0005" .
 	] , [
 		rdf:type rico:Identifier ;
-		rico:hasIdentifierType vocab:InventoryNumber ;
+		rico:hasIdentifierType vocab:inventoryNumber ;
 		rico:textualValue "13" .
 	] .
 
@@ -95,15 +95,15 @@
 		rico:Record ;
 	rdfs:label "VM094-C196-0006" ;
 	rico:title "VM094-C196-0006" ;
-	rico:hasContentOfType vocab:PhotographicImage ;
+	rico:hasContentOfType vocab:photographicImage ;
 	rico:isRecordResourceAssociatedWithRecordResource <http://data.qdmtl.ca/record/VM001-4-2_0806-1-1-P> ;
 	rico:hasOrHadIdentifier [
 		rdf:type rico:Identifier ;
-		rico:hasIdentifierType vocab:ArchivalReferenceCode ;
+		rico:hasIdentifierType vocab:archivalReferenceCode ;
 		rico:textualValue "VM094-C196-0006" .
 	] , [
 		rdf:type rico:Identifier ;
-		rico:hasIdentifierType vocab:InventoryNumber ;
+		rico:hasIdentifierType vocab:inventoryNumber ;
 		rico:textualValue "13" .
 	] .
 
@@ -111,15 +111,15 @@
 		rico:Record ;
 	rdfs:label "VM094-C196-0007" ;
 	rico:title "VM094-C196-0007" ;
-	rico:hasContentOfType vocab:PhotographicImage ;
+	rico:hasContentOfType vocab:photographicImage ;
 	rico:isRecordResourceAssociatedWithRecordResource <http://data.qdmtl.ca/record/VM001-4-2_0806-1-1-P> ;
 	rico:hasOrHadIdentifier [
 		rdf:type rico:Identifier ;
-		rico:hasIdentifierType vocab:ArchivalReferenceCode ;
+		rico:hasIdentifierType vocab:archivalReferenceCode ;
 		rico:textualValue "VM094-C196-0007" .
 	] , [
 		rdf:type rico:Identifier ;
-		rico:hasIdentifierType vocab:InventoryNumber ;
+		rico:hasIdentifierType vocab:inventoryNumber ;
 		rico:textualValue "13" .
 	] .
 
@@ -127,7 +127,7 @@
 		rico:Record ;
 	rdfs:label "VM094-C196-0900" ;
 	rico:title "VM094-C196-0900" ;
-	rico:hasContentOfType vocab:PhotographicImage ;
+	rico:hasContentOfType vocab:photographicImage ;
 	rico:isRecordResourceAssociatedWithRecordResource <http://data.qdmtl.ca/record/VM001-4-2_0806-1-1-P> ;
 	rdfs:comment "St-Vincent de Paul Asylum (Asile Saint-Vincent-de-Paul)" .
 
@@ -135,7 +135,7 @@
 		rico:Record ;
 	rdfs:label "VM094-C196-0901" ;
 	rico:title "VM094-C196-0901" ;
-	rico:hasContentOfType vocab:PhotographicImage ;
+	rico:hasContentOfType vocab:photographicImage ;
 	rico:isRecordResourceAssociatedWithRecordResource <http://data.qdmtl.ca/record/VM001-4-2_0806-1-1-P> ;
 	rdfs:comment "St-Vincent de Paul Asylum (Asile Saint-Vincent-de-Paul)" .
 
@@ -143,7 +143,7 @@
 		rico:Record ;
 	rdfs:label "VM094-C196-0902" ;
 	rico:title "VM094-C196-0902" ;
-	rico:hasContentOfType vocab:PhotographicImage ;
+	rico:hasContentOfType vocab:photographicImage ;
 	rico:isRecordResourceAssociatedWithRecordResource <http://data.qdmtl.ca/record/VM001-4-2_0806-1-1-P> ;
 	rdfs:comment "St-Vincent de Paul Asylum (Asile Saint-Vincent-de-Paul)" .
 
@@ -151,7 +151,7 @@
 		rico:Record ;
 	rdfs:label "VM094-C196-0903" ;
 	rico:title "VM094-C196-0903" ;
-	rico:hasContentOfType vocab:PhotographicImage ;
+	rico:hasContentOfType vocab:photographicImage ;
 	rico:isRecordResourceAssociatedWithRecordResource <http://data.qdmtl.ca/record/VM001-4-2_0806-1-1-P> ;
 	rdfs:comment "St-Vincent de Paul Asylum (Asile Saint-Vincent-de-Paul)" .
 
@@ -159,7 +159,7 @@
 		rico:Record ;
 	rdfs:label "VM094-C196-0928" ;
 	rico:title "VM094-C196-0928" ;
-	rico:hasContentOfType vocab:PhotographicImage ;
+	rico:hasContentOfType vocab:photographicImage ;
 	rico:isRecordResourceAssociatedWithRecordResource <http://data.qdmtl.ca/record/VM001-4-2_0806-1-1-P> ;
 	rdfs:comment "St-Vincent de Paul Asylum (Asile Saint-Vincent-de-Paul)" .
 
@@ -167,7 +167,7 @@
 		rico:Record ;
 	rdfs:label "VM094-C196-0929" ;
 	rico:title "VM094-C196-0929" ;
-	rico:hasContentOfType vocab:PhotographicImage ;
+	rico:hasContentOfType vocab:photographicImage ;
 	rico:isRecordResourceAssociatedWithRecordResource <http://data.qdmtl.ca/record/VM001-4-2_0806-1-1-P> ;
 	rdfs:comment "St-Vincent de Paul Asylum (Asile Saint-Vincent-de-Paul)" .
 
@@ -175,7 +175,7 @@
 		rico:Record ;
 	rdfs:label "VM094-C196-0930" ;
 	rico:title "VM094-C196-0930" ;
-	rico:hasContentOfType vocab:PhotographicImage ;
+	rico:hasContentOfType vocab:photographicImage ;
 	rico:isRecordResourceAssociatedWithRecordResource <http://data.qdmtl.ca/record/VM001-4-2_0806-1-1-P> ;
 	rdfs:comment "St-Vincent de Paul Asylum (Asile Saint-Vincent-de-Paul)" .
 
