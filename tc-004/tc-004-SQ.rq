@@ -1,0 +1,62 @@
+# record instantiations
+PREFIX rico: <https://www.ica.org/standards/RiC/ontology#>
+PREFIX vocab: <http://vocab.qdmtl.ca/>
+
+SELECT ?record ?instantiation
+  WHERE {
+    ?record a rico:Record ;
+      rico:hasInstantiation ?instantiation .
+  }
+
+# record instantiations with media type
+PREFIX rico: <https://www.ica.org/standards/RiC/ontology#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+
+SELECT ?record ?instantiation ?support
+  WHERE {
+    ?record a rico:Record ;
+      rico:hasInstantiation ?instantiation .
+    ?instantiation rico:hasCarrierType ?ct .
+    ?ct skos:prefLabel ?support .
+    FILTER(lang(?support)="fr") .
+  }
+
+# digital files whose associated record has inventory number "116"
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX rico: <https://www.ica.org/standards/RiC/ontology#>
+PREFIX schema: <https://schema.org/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX vocab: <http://vocab.qdmtl.ca/>
+
+SELECT ?record ?no_inv ?fileFormatLabel ?file
+  WHERE {
+    ?record a rico:Record ;
+      rico:hasOrHadIdentifier ?id ;
+      rico:hasInstantiation ?instantiation .
+    ?id rico:hasIdentifierType vocab:inventoryNumber ;
+      rico:textualValue ?no_inv .
+  	FILTER (?no_inv = "116") .
+    ?instantiation rico:hasCarrierType vocab:digitalFile ;
+      dcterms:format ?ff ;
+      schema:image ?file .
+    ?ff skos:prefLabel ?fileFormatLabel .
+  }
+
+# Quelles sont les photographies qui existent sous forme de fichiers numériques accessibles en ligne?
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX rico: <https://www.ica.org/standards/RiC/ontology#>
+PREFIX schema: <https://schema.org/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX vocab: <http://vocab.qdmtl.ca/>
+
+SELECT ?record ?skprfl ?fileFormat ?file
+  WHERE {
+    ?record a rico:Record ;
+      rico:hasContentOfType vocab:photographicImage ;
+      rico:hasInstantiation ?instantiation .
+    ?instantiation dcterms:format ?ff ;
+      schema:image ?file .
+    ?ff skos:prefLabel ?fileFormat .
+    vocab:photographicImage skos:prefLabel ?skprfl .
+    FILTER(lang(?skprfl)="fr") .
+  }

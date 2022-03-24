@@ -1,0 +1,2030 @@
+<http://data.qdmtl.ca/record/VM001-4-2_0806-1-1-P/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation .
+
+<http://data.qdmtl.ca/record/VM001-4-2_0806-1-1-P/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "https://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/8/e/1/8e1d7a1a638ff64c7d85db9fd7fedc16b5cd2d0ec3a919d389599e2c6836b76e/AP22293_M-61_ME_3765b.jpg" ;
+	owl:sameAs <https://commons.wikimedia.org/entity/M110994295> .
+
+<http://data.qdmtl.ca/record/VM094-C196-0001/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0001/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177770/VM94C196-0001.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0002/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0002/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177850/VM94C196-0002.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0003/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0003/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177790/VM94C196-0003.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0004/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0004/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177774/VM94C196-0004.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0005/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0005/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177842/VM94C196-0005.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0006/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0006/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177726/VM94C196-0006.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0007/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0007/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177782/VM94C196-0007.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0008/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0008/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177786/VM94C196-0008.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0009/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0009/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177874/VM94C196-0009.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0010/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0010/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177754/VM94C196-0010.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0011/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0011/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177826/VM94C196-0011.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0012/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0012/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177750/VM94C196-0012.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0013/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0013/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177806/VM94C196-0013.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0014/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0014/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177722/VM94C196-0014.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0015/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0015/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177794/VM94C196-0015.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0016/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0016/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177862/VM94C196-0016.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0017/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0017/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177778/VM94C196-0017.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0018/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0018/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177838/VM94C196-0018.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0019/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0019/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177758/VM94C196-0019.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0020/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0020/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177818/VM94C196-0020.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0021/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0021/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177738/VM94C196-0021.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0022/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0022/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177866/VM94C196-0022.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0023/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0023/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177742/VM94C196-0023.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0024/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0024/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177730/VM94C196-0024.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0025/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0025/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177854/VM94C196-0025.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0026/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0026/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177814/VM94C196-0026.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0027/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0027/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177810/VM94C196-0027.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0028/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0028/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177834/VM94C196-0028.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0029/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0029/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177830/VM94C196-0029.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0030/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0030/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177858/VM94C196-0030.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0031/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0031/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177802/VM94C196-0031.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0032/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0032/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177718/VM94C196-0032.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0033/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0033/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177822/VM94C196-0033.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0034/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0034/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177746/VM94C196-0034.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0035/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0035/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177846/VM94C196-0035.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0036/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0036/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177766/VM94C196-0036.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0037/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0037/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177870/VM94C196-0037.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0038/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0038/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177798/VM94C196-0038.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0039/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0039/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177734/VM94C196-0039.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0040/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0040/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177762/VM94C196-0040.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0041/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0041/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177946/VM94C196-0041.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0042/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0042/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178038/VM94C196-0042.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0043/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0043/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177982/VM94C196-0043.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0044/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0044/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177978/VM94C196-0044.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0045/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0045/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177938/VM94C196-0045.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0046/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0046/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177890/VM94C196-0046.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0047/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0047/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177962/VM94C196-0047.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0048/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0048/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177954/VM94C196-0048.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0049/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0049/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178002/VM94C196-0049.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0050/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0050/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177918/VM94C196-0050.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0051/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0051/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177986/VM94C196-0051.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0052/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0052/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177934/VM94C196-0052.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0053/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0053/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177886/VM94C196-0053.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0054/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0054/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178006/VM94C196-0054.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0055/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0055/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178030/VM94C196-0055.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0056/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0056/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177958/VM94C196-0056.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0057/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0057/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177882/VM94C196-0057.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0058/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0058/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177974/VM94C196-0058.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0059/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0059/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177906/VM94C196-0059.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0060/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0060/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177994/VM94C196-0060.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0061/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0061/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177950/VM94C196-0061.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0062/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0062/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178042/VM94C196-0062.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0063/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0063/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177970/VM94C196-0063.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0064/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0064/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177898/VM94C196-0064.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0064a/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0064a/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178034/VM94C196-0064a.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0065/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0065/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178018/VM94C196-0065.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0066/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0066/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177914/VM94C196-0066.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0067/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0067/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177902/VM94C196-0067.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0068/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0068/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177910/VM94C196-0068.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0069/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0069/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177998/VM94C196-0069.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0070/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0070/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177930/VM94C196-0070.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0071/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0071/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178026/VM94C196-0071.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0072/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0072/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177926/VM94C196-0072.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0073/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0073/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178022/VM94C196-0073.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0074/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0074/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177990/VM94C196-0074.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0075/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0075/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177922/VM94C196-0075.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0076/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0076/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178014/VM94C196-0076.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0077/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0077/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177966/VM94C196-0077.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0078/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0078/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177894/VM94C196-0078.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0079/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0079/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177878/VM94C196-0079.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0080/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0080/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/177942/VM94C196-0080.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0081/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0081/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178386/VM94C196-0081.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0082/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0082/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178494/VM94C196-0082.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0083/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0083/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178442/VM94C196-0083.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0084/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0084/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178414/VM94C196-0084.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0085/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0085/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178486/VM94C196-0085.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0086/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0086/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178506/VM94C196-0086.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0087/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0087/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178426/VM94C196-0087.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0088/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0088/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178498/VM94C196-0088.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0089/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0089/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178518/VM94C196-0089.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0090/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0090/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178394/VM94C196-0090.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0091/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0091/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178366/VM94C196-0091.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0092/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0092/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178446/VM94C196-0092.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0093/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0093/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178402/VM94C196-0093.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0094/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0094/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178462/VM94C196-0094.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0095/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0095/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178422/VM94C196-0095.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0096/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0096/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178374/VM94C196-0096.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0097/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0097/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178458/VM94C196-0097.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0098/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0098/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178510/VM94C196-0098.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0099/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0099/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178434/VM94C196-0099.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0100/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0100/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178370/VM94C196-0100.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0101/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0101/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178454/VM94C196-0101.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0102/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0102/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178410/VM94C196-0102.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0103/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0103/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178502/VM94C196-0103.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0104/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0104/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178430/VM94C196-0104.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0105/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0105/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178378/VM94C196-0105.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0106/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0106/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178490/VM94C196-0106.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0107/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0107/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178470/VM94C196-0107.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0108/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0108/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178514/VM94C196-0108.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0109/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0109/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178438/VM94C196-0109.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0110/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0110/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178398/VM94C196-0110.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0111/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0111/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178482/VM94C196-0111.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0112/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0112/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178418/VM94C196-0112.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0113/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0113/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178478/VM94C196-0113.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0114/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0114/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178390/VM94C196-0114.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0115/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0115/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178474/VM94C196-0115.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0116/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0116/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178450/VM94C196-0116.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0117/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0117/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178382/VM94C196-0117.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0118/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0118/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178466/VM94C196-0118.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0119/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0119/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178406/VM94C196-0119.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0120/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0120/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178522/VM94C196-0120.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0121/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0121/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178066/VM94C196-0121.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0122/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0122/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178170/VM94C196-0122.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0123/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0123/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178122/VM94C196-0123.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0124/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0124/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178094/VM94C196-0124.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0125/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0125/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178162/VM94C196-0125.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0126/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0126/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178186/VM94C196-0126.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0127/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0127/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178106/VM94C196-0127.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0128/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0128/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178174/VM94C196-0128.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0129/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0129/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178198/VM94C196-0129.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0130/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0130/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178074/VM94C196-0130.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0131/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0131/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178046/VM94C196-0131.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0132/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0132/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178126/VM94C196-0132.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0133/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0133/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178082/VM94C196-0133.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0134/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0134/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178138/VM94C196-0134.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0135/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0135/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178102/VM94C196-0135.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0136/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0136/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178054/VM94C196-0136.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0137/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0137/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178190/VM94C196-0137.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0138/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0138/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178114/VM94C196-0138.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0139/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0139/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178050/VM94C196-0139.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0140/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0140/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178134/VM94C196-0140.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0141/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0141/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178090/VM94C196-0141.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0142/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0142/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178178/VM94C196-0142.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0143/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0143/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178110/VM94C196-0143.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0144/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0144/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178058/VM94C196-0144.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0145/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0145/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178166/VM94C196-0145.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0146/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0146/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178146/VM94C196-0146.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0147/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0147/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178194/VM94C196-0147.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0148/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0148/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178118/VM94C196-0148.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0149/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0149/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178078/VM94C196-0149.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0150/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0150/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178158/VM94C196-0150.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0151/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0151/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178098/VM94C196-0151.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0152/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0152/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178154/VM94C196-0152.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0153/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0153/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178070/VM94C196-0153.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0154/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0154/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178150/VM94C196-0154.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0155/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0155/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178130/VM94C196-0155.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0156/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0156/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178062/VM94C196-0156.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0157/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0157/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178142/VM94C196-0157.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0158/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0158/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178086/VM94C196-0158.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0159/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0159/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178202/VM94C196-0159.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0160/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0160/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178182/VM94C196-0160.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0161/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0161/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178226/VM94C196-0161.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0162/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0162/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178338/VM94C196-0162.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0163/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0163/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178278/VM94C196-0163.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0164/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0164/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178254/VM94C196-0164.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0165/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0165/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178330/VM94C196-0165.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0166/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0166/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178346/VM94C196-0166.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0167/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0167/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178266/VM94C196-0167.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0168/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0168/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178270/VM94C196-0168.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0169/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0169/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178358/VM94C196-0169.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0170/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0170/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178234/VM94C196-0170.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0171/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0171/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178206/VM94C196-0171.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0172/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0172/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178294/VM94C196-0172.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0173/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0173/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178242/VM94C196-0173.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0174/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0174/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178310/VM94C196-0174.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0175/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0175/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178262/VM94C196-0175.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0176/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0176/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178214/VM94C196-0176.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0177/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0177/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178306/VM94C196-0177.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0178/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0178/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178350/VM94C196-0178.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0179/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0179/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178282/VM94C196-0179.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0180/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0180/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178210/VM94C196-0180.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0181/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0181/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178302/VM94C196-0181.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0182/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0182/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178250/VM94C196-0182.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0183/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0183/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178342/VM94C196-0183.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0184/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0184/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178274/VM94C196-0184.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0185/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0185/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178218/VM94C196-0185.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0186/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0186/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178334/VM94C196-0186.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0187/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0187/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178290/VM94C196-0187.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0188/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0188/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178354/VM94C196-0188.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0189/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0189/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178286/VM94C196-0189.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0190/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0190/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178238/VM94C196-0190.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0191/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0191/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178326/VM94C196-0191.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0192/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0192/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178258/VM94C196-0192.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0193/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0193/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178322/VM94C196-0193.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0194/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0194/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178230/VM94C196-0194.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0195/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0195/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178318/VM94C196-0195.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0196/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0196/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178298/VM94C196-0196.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0197/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0197/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178222/VM94C196-0197.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0198/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0198/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178314/VM94C196-0198.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0199/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0199/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178246/VM94C196-0199.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0200/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0200/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178362/VM94C196-0200.jpg" .
+
+<http://data.qdmtl.ca/record/VM094-C196-0201/i/01> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:blackAndWhitePhotoprint .
+
+<http://data.qdmtl.ca/record/VM094-C196-0201/i/02> rdf:type owl:NamedIndividual ,
+		rico:Instantiation ;
+	rico:hasCarrierType vocab:digitalFile ;
+	dcterms:format vocab:jpeg ;
+	schema:url "http://archivesdemontreal.ica-atom.org/uploads/r/ville-de-montreal-section-des-archives/1/7/178546/VM94C196-0201.jpg" .
+
