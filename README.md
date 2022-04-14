@@ -15,18 +15,19 @@ Source : [https://essepuntato.it/samod/](https://essepuntato.it/samod/)
 
 - [x] 001-les numéros d’inventaire du plan d’expropriation
 - [ ] 002-le contexte archivistique plus large de la pièce d’archives
-- [ ] 003-les objets représentés par les photos d'archives (immeubles et lieux disparus)
+- [ ] 003-les objets représentés par les photographies d'archives (immeubles et lieux disparus)
 - [x] 004-le type de contenu et les instanciations des pièces d'archives
-- [ ] inventory number status (certain, uncertain, unreadable, etc.)
+- [ ] 005-les territoires administratifs au fil des années
 
 ### À venir
 
-- [ ] les territoires administratifs au fil des années
 - [ ] les voies de communication
 - [ ] les occupants des immeubles (groupes et organisations), avec fenêtre temporelle
 - [ ] les adresses civiques des organisations
 - [ ] les personnes physiques
 - [ ] les témoignages
+- [ ] inventory number status (certain, uncertain, unreadable, etc.)
+
 
 ## Protocoles
 
@@ -34,7 +35,7 @@ Source : [https://essepuntato.it/samod/](https://essepuntato.it/samod/)
 
 Lorsque le *modelet* est considéré comme prêt à tester et que l'échantillon de données est prêt :
 
-1. commit sur `dev` et `$ git checkout tc-<id>`;
+1. commit sur `dev`, puis `$ git checkout tc-<id>`;
 2. générer l'échantillon de données RDF (an ABox as *exemplar dataset*) lié au cas de test
 3. concaténer l'ABox généré à la TBox (*modelet*) sur la branche `tc-<id>`;
 4. parser et indenter avec OWL API : écraser l'output de la concaténation;
@@ -49,23 +50,25 @@ Lorsqu'un cas de test a été effectué avec succès :
 1. procéder à l'identification du *modelet* sur la branche `dev` : `$ git tag m-<tcID>` (lightweight tag) : par exemple `$ git tag m-001`;
   - Dans le contexte du projet QDMTL, le *modelet* peut inclure des entités de modèles externes;
   - La version du *modelet* ne relève *pas* du versionnage sémantique; il s'agit d'un système d'identification interne.
-2. fusionner le modèle actuel avec le *modelet* : toujours sur la branche `dev` : `$ git merge main` (s'il n'y a pas de modification sur `main`, le modèle `dev` est le plus récent, `already up to date`);
+2. fusionner le modèle actuel avec le *modelet* : toujours sur la branche `dev` : `$ git merge main` (s'il n'y a pas de modification sur `main`, le modèle `dev` est le plus récent, donc extrant == `already up to date`);
 3. si nécessaire : tester le nouveau modèle;
 4. refactoriser;
 5. si nécessaire : `$ git tag -a v<version> -m "<label du tag>"`;
-6. générer sérialisation RDF/XML
+6. générer sérialisation RDF/XML de la TBox
 7. `$ git checkout main` puis `$ git merge dev` (`--no-ff`?).
 
 Ne pas oublier de pousser les tags.
 
 TODO : automatisation là où c'est possible
 
-### Generate Data
+### Generate Complete Graph
 
-1. Copier la dernière version du modèle (disponible dans `qdmtl-ontology`) dans `qdmtl-data` : `TTL/qdmtl-TBox.ttl`
-2. Python : générer les plus récentes ABox à partir des fichiers CSV
-3. Python : concaténer les ABox à la TBox.ttl
-4. Exécuter Pellet (TODO : tester les options, éviter les inférences superflues)
+Générer le graph et charger dans l'entrepôt :
+
+1. Copier la dernière version du modèle (disponible dans `qdmtl-ontology`) dans `qdmtl-data` : `/qdmtl/qdmtl-data/qdmtl-TBox.ttl`
+2. Générer les plus récentes ABox à partir des fichiers CSV : `$ python3 batch-convert-csv-ttl.py`
+3. Placer les données à soumettre au moteur d'inférence dans le répertoire prévu à cet effet
+4. Générer le graphe : `$ python3 generate-graph.py`
 5. SPARQL LOAD
 
 ## NOTES

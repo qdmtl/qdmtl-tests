@@ -1,4 +1,6 @@
-/concat-tbox-abox.py
-/convertir-csv-vers-ttl.py
+# files
 /template-tc.md
-/test.py
+
+# directories
+.venv/
+py/
