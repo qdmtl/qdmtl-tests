@@ -51,11 +51,11 @@ print("\n" + "onto_path: " + str(onto_path) + "\n")
 
 # récupérer préfixes
 with open(TBox,'r') as f:
-    prefixes = re.findall('(@prefix.+)((?:\n.+)+)(\.\n\n)', f.read(2000)) # 2000 char lus
+    prefixes = re.findall("(@prefix.+)((?:\n.+)+)(\.\n\n)", f.read(3000)) # 3000 char lus
 prefixes = "".join([i for i in prefixes[0]])
 
 # concat le reste des données
-# réutiliser ficher tmp (ici écrasé)
+# écrase ficher tmp et réutilise
 with open(tmpFile,'w') as tmpgf:
     tmpgf.write(prefixes)
 
@@ -74,7 +74,7 @@ print("Saving qdmtl-graph")
 print("Please wait")
 qdmtlGraph.serialize(
     destination = graph,
-    base = "http://ontology.qdmtl.ca/",
+    base = re.search("@base <(.+)>", prefixes).group(1),
     format = "ttl"
 )
 print("Done")
