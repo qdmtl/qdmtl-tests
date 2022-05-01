@@ -69,7 +69,10 @@ for inputFile, number in filesWithBlankNodesAndNumberOfBN.items():
                     assertions += '[\n'
                     assertions += '\t\trdf:type rico:Identifier ;\n'
                     assertions += '\t\trico:hasIdentifierType ' + property + ' ;\n'
-                    assertions += '\t\trico:textualValue ' + value + '\n\t]'
+                    assertions += '\t\trico:textualValue ' + value
+                    if property == 'vocab:inventoryNumber':
+                      assertions += '\t\trdf:value ' + value + '^^xsd:integer'
+                    assertions += '\n\t]'
 
                     if i < len(propWithBlankNodeValue) - 1:
                         assertions += ' , '
