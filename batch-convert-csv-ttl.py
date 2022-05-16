@@ -1,8 +1,13 @@
+#!/usr/bin/env python3
+
 import csv, re, os
 
 # Paramètres
 inputFolder = '../qdmtl-data/CSV/'
 outputFolder = '../qdmtl-data/TTL/'
+materialize = [
+    'qdmtl-Building'
+]
 filesWithBlankNodesAndNumberOfBN = {
     'qdmtl-Record.csv' : 2
 }
@@ -18,6 +23,8 @@ for file in files:
 for inputFile, number in filesWithBlankNodesAndNumberOfBN.items():
     inputFilePath = inputFolder + inputFile
     outputFile = re.match("(.+)\.csv", inputFile).group(1)
+    if outputFile in materialize:
+        outputFile = 'inference/' + outputFile
     outputFile = outputFolder + outputFile + '-ABox.ttl'
 
     # Initialisations
@@ -71,7 +78,7 @@ for inputFile, number in filesWithBlankNodesAndNumberOfBN.items():
                     assertions += '\t\trico:hasIdentifierType ' + property + ' ;\n'
                     assertions += '\t\trico:textualValue ' + value
                     if property == 'vocab:inventoryNumber':
-                      assertions += '\t\trdf:value ' + value + '^^xsd:integer'
+                      assertions += ' ;\n\t\trdf:value ' + value + '^^xsd:integer'
                     assertions += '\n\t]'
 
                     if i < len(propWithBlankNodeValue) - 1:

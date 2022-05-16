@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import shutil, os
 from owlready2 import *
 from rdflib import Graph # doit être chargé après owlready2
@@ -44,7 +46,8 @@ tmpg.serialize(destination = inferenceTmpXML, format = "xml") # xml
 onto_path.append(dataRootDir)
 qdmtl = get_ontology("file://" + inferenceTmpXML).load()
 with qdmtl:
-    sync_reasoner_pellet()
+#    sync_reasoner_pellet()
+    sync_reasoner() # Hermit par défaut; Pellet a des problèmes avec anonymous individuals
 
 qdmtl.save(file = ntGraphTmp, format = "ntriples")
 print("\n" + "onto_path: " + str(onto_path) + "\n")
@@ -53,9 +56,10 @@ print("\n" + "onto_path: " + str(onto_path) + "\n")
 with open(TBox,'r') as f:
     prefixes = re.findall("(@prefix.+)((?:\n.+)+)(\.\n\n)", f.read(3000)) # 3000 char lus
 prefixes = "".join([i for i in prefixes[0]])
+print(prefixes)
 
 # concat le reste des données
-# écrase ficher tmp et réutilise
+# écrase ficher tmp et le réutilise
 with open(tmpFile,'w') as tmpgf:
     tmpgf.write(prefixes)
 
@@ -74,12 +78,10 @@ print("Saving qdmtl-graph")
 print("Please wait")
 qdmtlGraph.serialize(
     destination = graph,
-    base = re.search("@base <(.+)>", prefixes).group(1),
+    base = re.search("@base <(.+)>", prefixes).group(1) + "/",
     format = "ttl"
 )
 print("Done")
 
 # todo: nettoyage du répertoire
 # makefile
-# vérifier possibilité de manipuler plus avant les objets plutôt que création de fichier
-# par contre on libère la mémoire au fur et à mesure, c'est bien
