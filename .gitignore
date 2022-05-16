@@ -1,4 +1,7 @@
 # files
+/convert-build.txt
+/load.sh
+/push.sh
 /template-tc.md
 
 # directories
