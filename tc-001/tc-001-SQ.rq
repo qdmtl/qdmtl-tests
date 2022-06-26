@@ -16,20 +16,23 @@ SELECT ?record ?no_inv ?label
   }
 
 # Afficher les pièces d'archives associées à un numéro d'inventaire
+# rico:isRecordResourceAssociatedWithRecordResource demande inférence
 
 PREFIX rico: <https://www.ica.org/standards/RiC/ontology#>
 PREFIX vocab: <http://vocab.qdmtl.ca/>
-SELECT ?record ?no_inv ?plan
+SELECT ?record #?no_inv ?plan
   WHERE {
     ?record a rico:Record ;
-      rico:hasOrHadIdentifier ?id ;
-      rico:isRecordResourceAssociatedWithRecordResource ?plan .
+      rico:hasOrHadIdentifier ?id .
+#      rico:isRecordResourceAssociatedWithRecordResource ?plan .
     ?id rico:hasIdentifierType vocab:inventoryNumber ;
       rico:textualValue "11" .
-    BIND ("11" AS ?no_inv) .
+#    BIND ("11" AS ?no_inv) .
   }
 
 # Afficher les pièces d'archives associées à un plan
+# rico:isRecordResourceAssociatedWithRecordResource demande inférence
+# SPARQL 1.1
 
 PREFIX rico: <https://www.ica.org/standards/RiC/ontology#>
 PREFIX vocab: <http://vocab.qdmtl.ca/>
@@ -41,6 +44,8 @@ SELECT ?plan ?record
   }
 
 # Variante
+# rico:isRecordResourceAssociatedWithRecordResource
+# matérialisation des inférences nécessaire
 
 PREFIX rico: <https://www.ica.org/standards/RiC/ontology#>
 PREFIX vocab: <http://vocab.qdmtl.ca/>
