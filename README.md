@@ -2,6 +2,8 @@
 
 Ce dépôt contient les scénarios liés aux cas de test du [projet QDMTL](https://qdmtl.ca). Il s’agit principalement de notes de travail.
 
+C’est à partir de ce répertoire que s’exécute la constitution du jeu de données à partir d'un assemblage de différentes sources.
+
 Plus d’informations sur le projet QDMTL :
 
 - [https://qdmtl.ca](https://qdmtl.ca)
@@ -50,7 +52,7 @@ Lorsque le *modelet* est considéré comme prêt à tester et que l’échantill
 4. parser et indenter avec OWL API : écraser l’output de la concaténation;
 5. tester;
 6. important : lorsque le test est concluant, commit sur la branche `tc-<tcID>`;
-7. si nécessaire, `cherrypick` vers branche `dev`, si des commits pertinents ont eu lieu..
+7. si nécessaire, `cherrypick` vers branche `dev`, si des commits pertinents ont eu lieu.
 
 ### Test
 
