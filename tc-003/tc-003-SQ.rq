@@ -1,0 +1,52 @@
+# La liste des photographies avec les objets qu'ils représentent
+PREFIX vocab: <http://vocab.qdmtl.ca/>
+PREFIX rico: <https://www.ica.org/standards/RiC/ontology#>
+
+SELECT ?record ?subjectOfPhoto
+WHERE {
+  ?record a rico:Record ;
+    rico:hasContentOfType vocab:photographicImage ;
+    rico:hasOrHadMainSubject ?subjectOfPhoto .
+}
+
+# L'usage d'un bâtiment
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX qdmtl: <http://onto.qdmtl.ca/>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX ecrm: <http://erlangen-crm.org/current/>
+
+SELECT DISTINCT ?s ?label ?appellation ?usage ?usageLabel
+WHERE {
+  ?s a qdmtl:E24_Building ;
+    a ?usage ;
+    ecrm:P1_is_identified_by ?identifier ;
+    rdfs:label ?label .
+  ?usage rdfs:subClassOf qdmtl:E24_Building ;
+    rdfs:label ?usageLabel .
+  OPTIONAL {
+    ?identifier a ecrm:E41_Appellation ;
+      rdfs:label ?appellation .
+  }
+}
+
+#  Les coordonnées géographiques d'un bâtiment
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX qdmtl: <http://onto.qdmtl.ca/>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX geo: <http://www.opengis.net/ont/geosparql#>
+PREFIX ecrm: <http://erlangen-crm.org/current/>
+
+SELECT ?uriFr ?label ?appellation ?point
+  WHERE {
+    ?s a qdmtl:E24_Building ;
+      owl:sameAs ?uriFr ;
+      ecrm:P1_is_identified_by ?identifier ;
+      rdfs:label ?label .
+    OPTIONAL {
+      ?s ecrm:P53_has_former_or_current_location ?place .
+      ?place ecrm:P168_place_is_defined_by ?geoFeature .
+      ?geoFeature geo:asGeoJSON ?point .
+      ?identifier a ecrm:E41_Appellation ;
+        rdfs:label ?appellation .
+    }
+  }
