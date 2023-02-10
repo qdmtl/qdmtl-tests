@@ -1,10 +1,10 @@
-# Cas de test — QDMTL
+# qdmtl-tests
 
-Ce dépôt contient les scénarios liés aux cas de test du [projet QDMTL](https://qdmtl.ca). Il s’agit principalement de notes de travail.
+Ce dépôt contient les scénarios de développement élaborés dans le cadre de la construction du [modèle](https://github.com/qdmtl/qdmtl-model) ontologique du [projet QDMTL](https://qdmtl.ca). Ces scénarios prennent la forme de cas de test qui documentent le processus de modélisation des quartiers disparus de Montréal. Ceux-ci sont les entités au coeur du projet QDMTL.
 
-C’est à partir de ce répertoire que s’exécute la constitution du jeu de données à partir d'un assemblage de différentes sources.
+Pour plus d’informations sur ce projet, visitez [https://qdmtl.ca](https://qdmtl.ca).
 
-Plus d’informations sur le projet QDMTL :
+<!--C’est depuis ce répertoire que s’exécute la constitution du jeu de données sur la base d'un assemblage de différentes sources.-->
 
 - [https://qdmtl.ca](https://qdmtl.ca)
 
