@@ -1,6 +1,6 @@
 # qdmtl-tests
 
-Ce dépôt contient les scénarios de développement élaborés dans le cadre de la construction du [modèle](https://github.com/qdmtl/qdmtl-model) ontologique du [projet QDMTL](https://qdmtl.ca). Ces scénarios prennent la forme de cas de test qui documentent le processus de modélisation des quartiers disparus de Montréal. Ceux-ci sont les entités au coeur du projet QDMTL.
+Ce dépôt contient les scénarios de développement élaborés dans le cadre de la construction du [modèle](https://github.com/qdmtl/qdmtl-model) ontologique du [projet QDMTL](https://qdmtl.ca). Ces scénarios prennent la forme de cas de test qui documentent le processus de modélisation des quartiers disparus de Montréal. Ceux-ci sont les entités au cœur du projet QDMTL.
 
 Pour plus d’informations sur ce projet, visitez [https://qdmtl.ca](https://qdmtl.ca).
 
@@ -9,13 +9,14 @@ Pour plus d’informations sur ce projet, visitez [https://qdmtl.ca](https://qdm
 
 ## Nomenclature
 
-Chaque cas de test est placé dans un répertoire dont le nom suit la nomenclature générique suivante : `tc-<000>`, où `<000>` doit être remplacé par un numéro d'identification attribué sequentiellement et constitué de trois chiffres. Le premier numéro de la séquence est 001. Ce numéro est incrémenté de 1 pour chaque nouveau cas de test.
+Chaque cas de test est placé dans un répertoire dont le nom suit la nomenclature générique suivante : `tc-<000>`, où `<000>` doit être remplacé par un numéro d'identification attribué séquentiellement et constitué de trois chiffres. Le premier numéro de la séquence est 001. Ce numéro est incrémenté de 1 pour chaque nouveau cas de test.
 
-**Exemple** : le répertoire `tc-002` contient la documentation du cas de test identifié par le numéro 002.
+**Exemple** : le répertoire `tc-002` contient la documentation du cas de test identifié par le numéro 002.
+
 
 ## Racine
 
-Les fichiers situés à la racine du dépôt sont des utilitaires maison de conversion de fichier (CSV --> TTL) et de génération de graphe qui fonctionnnent au sein d'une structure plus large à plusieurs dépôts.
+Les fichiers situés à la racine du dépôt sont des utilitaires maison de conversion de fichier (CSV --> TTL) et de génération de graphe qui fonctionnent au sein d'une structure plus large à plusieurs dépôts.
 
 # Méthodologie
 
@@ -60,7 +61,7 @@ Lorsque le *modelet* est considéré comme prêt à tester et que l’échantill
 1. commit sur `qdmtl-onto` `dev`, puis `$ git checkout tc-<id>`;
 2. générer l’échantillon de données RDF (an ABox as *exemplar dataset*) lié au cas de test
 3. concaténer l’ABox généré à la TBox (*modelet*) sur la branche `tc-<id>`;
-4. parser et indenter avec OWL API : écraser l’output de la concaténation;
+4. parser et indenter avec OWL API : écraser l’extrant de la concaténation;
 5. tester;
 6. important : lorsque le test est concluant, commit sur la branche `tc-<tcID>`;
 7. si nécessaire, `cherrypick` vers branche `dev`, si des commits pertinents ont eu lieu.
@@ -80,7 +81,7 @@ Lorsqu’un cas de test a été effectué avec succès :
 1. procéder à l’identification du *modelet* sur la branche `dev` : `$ git tag m-<tcID>` (lightweight tag) : par exemple `$ git tag m-001`;
   - Dans le contexte du projet QDMTL, le *modelet* peut inclure des entités de modèles externes;
   - La version du *modelet* ne relève *pas* du versionnage sémantique; il s’agit d’un système d’identification interne.
-2. fusionner le modèle actuel avec le *modelet* : toujours sur la branche `dev` : `$ git merge main` (s’il n’y a pas de modification sur `main`, le modèle `dev` est le plus récent, donc output == `already up to date`);
+2. fusionner le modèle actuel avec le *modelet* : toujours sur la branche `dev` : `$ git merge main` (s’il n’y a pas de modification sur `main`, le modèle `dev` est le plus récent, donc extrant == `already up to date`);
 3. si nécessaire : tester le nouveau modèle;
 4. refactoriser;
 5. si nécessaire, versionner le modèle : `$ git tag -a v<version> -m "<label du tag>"`;
