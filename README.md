@@ -5,8 +5,19 @@ Ce dépôt contient les scénarios de développement élaborés dans le cadre de
 Pour plus d’informations sur ce projet, visitez [https://qdmtl.ca](https://qdmtl.ca).
 
 <!--C’est depuis ce répertoire que s’exécute la constitution du jeu de données sur la base d'un assemblage de différentes sources.-->
+# Structure du dépôt
 
-- [https://qdmtl.ca](https://qdmtl.ca)
+## Nomenclature
+
+Chaque cas de test est placé dans un répertoire dont le nom suit la nomenclature générique suivante : `tc-<000>`, où `<000>` doit être remplacé par un numéro d'identification attribué sequentiellement et constitué de trois chiffres. Le premier numéro de la séquence est 001. Ce numéro est incrémenté de 1 pour chaque nouveau cas de test.
+
+**Exemple** : le répertoire `tc-002` contient la documentation du cas de test identifié par le numéro 002.
+
+## Racine
+
+Les fichiers situés à la racine du dépôt sont des utilitaires maison de conversion de fichier (CSV --> TTL) et de génération de graphe qui fonctionnnent au sein d'une structure plus large à plusieurs dépôts.
+
+# Méthodologie
 
 La méthodologie de développement du jeu de données est basée sur :
 
