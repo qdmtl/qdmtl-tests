@@ -36,7 +36,7 @@ Source : Peroni (2016), [https://essepuntato.it/samod/](https://essepuntato.it/s
 | ABox  | exemplar dataset implementing all the examples described in the motivating scenario according to the TBox |
 | SQ  | set of queries formalising the informal competency questions |
 
-## Cas de test
+# Cas de test
 
 - [x] 001-les numéros d’inventaire du plan d’expropriation
 - [ ] 002-le contexte archivistique plus large de la pièce d’archives
@@ -44,14 +44,14 @@ Source : Peroni (2016), [https://essepuntato.it/samod/](https://essepuntato.it/s
 - [x] 004-le type de contenu et les instanciations des pièces d’archives
 - [ ] 005-les territoires
 
-### À venir
+## À venir
 
 - [ ] les occupants des immeubles (groupes et organisations), avec fenêtre temporelle
   - [ ] les adresses civiques des organisations
 - [ ] les témoignages
 <!-- - [ ] inventory number status (certain, uncertain, unreadable, etc.) -->
 
-## Protocoles
+# Protocoles
 
 > :warning: **Cette procédure est obsolète. Voir section `Test` ci-dessous.**
 
@@ -65,7 +65,7 @@ Lorsque le *modelet* est considéré comme prêt à tester et que l’échantill
 6. important : lorsque le test est concluant, commit sur la branche `tc-<tcID>`;
 7. si nécessaire, `cherrypick` vers branche `dev`, si des commits pertinents ont eu lieu.
 
-### Test
+## Test
 
 1. commit sur `qdmtl-onto` `dev`, puis `$ git checkout tc-<id>`;
 2. `$ make` sur `qdmtl-test-cases`
@@ -73,7 +73,7 @@ Lorsque le *modelet* est considéré comme prêt à tester et que l’échantill
 4. important : lorsque le test est concluant, commit sur la branche `tc-<tcID>`;
 5. si nécessaire, `cherrypick` vers branche `dev`, si des commits pertinents ont eu lieu..
 
-### Merge Models et déploiement
+## Merge Models et déploiement
 
 Lorsqu’un cas de test a été effectué avec succès :
 
@@ -91,7 +91,7 @@ Lorsqu’un cas de test a été effectué avec succès :
 
 Ne pas oublier de pousser les tags.
 
-### Generate Complete Graph
+## Generate Complete Graph
 
 > :warning: **Cette procédure est obsolète. Elle est remplacée par le `makefile`.**
 
@@ -103,7 +103,7 @@ Générer le graphe et charger dans l’entrepôt :
 4. Générer le graphe : `$ python3 generate-graph.py`
 5. SPARQL LOAD : `$ php load-data-local.php`
 
-## NOTES
+# Notes de travail
 
 Si c’est commun à record et instantiation, ça va dans ContentType.
 
